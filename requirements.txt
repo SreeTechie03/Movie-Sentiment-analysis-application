@@ -1,7 +1,6 @@
 
 tensorflow
 keras
-gradio
 pandas
 numpy
 scikit-learn
